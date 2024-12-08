@@ -1,0 +1,428 @@
+Personaje 1,Personaje 2,Interacciones
+Sora,Wakka,2
+Sora,Tidus,2
+Sora,Selphie,2
+Wakka,Tidus,1
+Wakka,Selphie,1
+Tidus,Selphie,1
+Sora,Kairi,18
+Sora,Riku,23
+Kairi,Riku,10
+Donald,Goofy,112
+Donald,Minnie,3
+Donald,Daisy,3
+Goofy,Minnie,3
+Goofy,Daisy,3
+Minnie,Daisy,3
+Sora,Ansem (Xehanort),5
+Donald,Pepito,5
+Goofy,Pepito,5
+Minnie,Pepito,2
+Daisy,Pepito,2
+Goofy,Chip,1
+Goofy,Chop,1
+Goofy,Pluto,3
+Donald,Chip,1
+Donald,Chop,1
+Donald,Pluto,3
+Pepito,Chip,1
+Pepito,Chop,1
+Pepito,Pluto,1
+Chip,Chop,1
+Chip,Pluto,1
+Chip,Minnie,1
+Chip,Daisy,1
+Chop,Pluto,1
+Chop,Minnie,1
+Chop,Daisy,1
+Pluto,Minnie,1
+Pluto,Daisy,1
+Pluto,Sora,2
+Sora,Squall,7
+Sora,Yuffie,6
+Squall,Yuffie,6
+Donald,Aerith,5
+Goofy,Aerith,5
+Sora,Aerith,3
+Sora,Goofy,102
+Sora,Donald,102
+Squall,Aerith,3
+Squall,Goofy,4
+Squall,Donald,4
+Yuffie,Aerith,3
+Yuffie,Goofy,4
+Yuffie,Donald,4
+Hades,Yafar,1
+Hades,Ursula,1
+Hades,Capitan Garfio,2
+Hades,Oogie Boogie,1
+Hades,Malefica,3
+Yafar,Ursula,1
+Yafar,Capitan Garfio,1
+Yafar,Oogie Boogie,2
+Yafar,Malefica,4
+Ursula,Capitan Garfio,1
+Ursula,Oogie Boogie,1
+Ursula,Malefica,1
+Capitan Garfio,Oogie Boogie,1
+Capitan Garfio,Malefica,2
+Oogie Boogie,Malefica,2
+Sora,Conejo Blanco,2
+Goofy,Conejo Blanco,2
+Donald,Conejo Blanco,2
+Sora,Sr. Picaporte,1
+Goofy,Sr. Picaporte,1
+Donald,Sr. Picaporte,1
+Alicia,Conejo Blanco,1
+Alicia,Sora,2
+Alicia,Goofy,2
+Alicia,Donald,2
+Alicia,Reina de Corazones,1
+Conejo Blanco,Reina de Corazones,1
+Sora,Reina de Corazones,1
+Goofy,Reina de Corazones,1
+Donald,Reina de Corazones,1
+Gato de Chesire,Sora,1
+Gato de Chesire,Goofy,1
+Gato de Chesire,Donald,1
+Sora,Sr.Picaporte,1
+Goofy,Sr.Picaporte,1
+Donald,Sr.Picaporte,1
+Sora,Filoctetes,5
+Goofy,Filoctetes,5
+Donald,Filoctetes,5
+Sora,Hades,3
+Goofy,Hades,3
+Donald,Hades,3
+Sora,Cloud,4
+Goofy,Cloud,4
+Donald,Cloud,4
+Hades,Cloud,2
+Sora,Cerbero,1
+Sora,Hercules,3
+Goofy,Cerbero,1
+Goofy,Hercules,3
+Donald,Cerbero,1
+Donald,Hercules,3
+Hades,Cerbero,2
+Hades,Filoctetes,1
+Hades,Hercules,1
+Cloud,Cerbero,1
+Cloud,Filoctetes,2
+Cloud,Hercules,2
+Cerbero,Filoctetes,1
+Cerbero,Hercules,1
+Filoctetes,Hercules,3
+Sora,Sabor,3
+Sora,Tarzan,12
+Sabor,Tarzan,2
+Goofy,Terk,3
+Donald,Terk,3
+Sora,Jane,4
+Sora,Clayton,5
+Tarzan,Jane,4
+Tarzan,Clayton,5
+Tarzan,Donald,8
+Tarzan,Goofy,8
+Jane,Clayton,3
+Jane,Donald,4
+Jane,Goofy,4
+Clayton,Donald,4
+Clayton,Goofy,4
+Sora,Kerchak,4
+Sora,Kala,3
+Goofy,Kerchak,3
+Goofy,Kala,2
+Donald,Kerchak,3
+Donald,Kala,2
+Tarzan,Kerchak,4
+Tarzan,Kala,3
+Kerchak,Kala,3
+Clayton,Terk,1
+Clayton,Kerchak,2
+Terk,Kerchak,1
+Terk,Sora,2
+Terk,Tarzan,2
+Jane,Terk,2
+Clayton,Kala,1
+Malefica,Alicia,2
+Oogie Boogie,Alicia,1
+Yafar,Alicia,1
+Goofy,Riku,14
+Donald,Riku,14
+Riku,Malefica,7
+Sora,Pooh,5
+Sora,Piglet,3
+Pooh,Piglet,2
+Sora,Tiger,2
+Sora,Conejo,2
+Pooh,Tiger,2
+Pooh,Conejo,2
+Tiger,Conejo,2
+Sora,Rito,1
+Sora,Buho,1
+Pooh,Rito,1
+Pooh,Buho,1
+Tiger,Piglet,1
+Tiger,Rito,1
+Tiger,Buho,1
+Conejo,Piglet,1
+Conejo,Rito,1
+Conejo,Buho,1
+Piglet,Rito,1
+Piglet,Buho,1
+Rito,Buho,1
+Yafar,Iago,2
+Malefica,Iago,1
+Sora,Jasmine,4
+Donald,Jasmine,5
+Goofy,Jasmine,4
+Sora,Yafar,4
+Donald,Yafar,3
+Goofy,Yafar,2
+Jasmine,Yafar,4
+Sora,Alfombra Magica,5
+Donald,Alfombra Magica,5
+Goofy,Alfombra Magica,5
+Aladdin,Abu,1
+Sora,Aladdin,9
+Sora,Genio,6
+Donald,Aladdin,9
+Donald,Genio,6
+Goofy,Aladdin,8
+Goofy,Genio,5
+Aladdin,Genio,7
+Aladdin,Alfombra Magica,3
+Alfombra Magica,Genio,2
+Donald,Iago,1
+Aladdin,Yafar,3
+Aladdin,Jasmine,2
+Aladdin,Iago,1
+Yafar,Genio,4
+Jasmine,Genio,3
+Jasmine,Iago,1
+Genio,Iago,1
+Jasmine,Malefica,2
+Malefica,Sora,3
+Malefica,Goofy,3
+Malefica,Aladdin,1
+Malefica,Donald,3
+Malefica,Genio,1
+Sora,Alfombra,1
+Sora,Magica,1
+Donald,Alfombra,1
+Donald,Magica,1
+Goofy,Alfombra,1
+Goofy,Magica,1
+Alfombra,Magica,1
+Alfombra,Aladdin,1
+Magica,Aladdin,1
+Hades,Riku,1
+Riku,Capitan Garfio,3
+Sora,Pinocho,7
+Sora,Pepito,2
+Donald,Pinocho,7
+Goofy,Pinocho,7
+Pinocho,Pepito,2
+Pinocho,Gepetto,2
+Gepetto,Sora,2
+Gepetto,Donald,2
+Gepetto,Goofy,2
+Pinocho,Riku,5
+Gepetto,Riku,1
+Riku,Pepito,1
+Kairi,Malefica,3
+Sora,Ariel,6
+Sora,Sebastian,6
+Sora,Flounder,1
+Donald,Ariel,6
+Donald,Sebastian,6
+Donald,Flounder,1
+Goofy,Ariel,6
+Goofy,Sebastian,6
+Goofy,Flounder,1
+Ariel,Sebastian,5
+Ariel,Flounder,1
+Sebastian,Flounder,1
+Sora,ReyTriton,1
+Donald,ReyTriton,1
+Goofy,ReyTriton,1
+Ariel,ReyTriton,1
+ReyTriton,Sebastian,1
+Rey Triton,Sebastian,3
+Flotsam,Jetsam,3
+Sora,Rey Triton,2
+Goofy,Rey Triton,2
+Donald,Rey Triton,2
+Ariel,Rey Triton,2
+Ariel,Flotsam,2
+Ariel,Jetsam,2
+Ariel,Ursula,3
+Flotsam,Ursula,2
+Jetsam,Ursula,3
+Ursula,Rey Triton,1
+Ursula,Sora,4
+Ursula,Goofy,3
+Ursula,Donald,3
+Ursula,Sebastian,2
+Rey Triton,Flotsam,1
+Rey Triton,Jetsam,1
+Flotsam,Sora,1
+Flotsam,Goofy,1
+Flotsam,Donald,1
+Flotsam,Sebastian,1
+Jetsam,Sora,2
+Jetsam,Goofy,1
+Jetsam,Donald,1
+Jetsam,Sebastian,1
+Ursula,Floatsam,1
+Floatsam,Jetsam,1
+Floatsam,Sora,1
+El Alcalde,Jack,2
+Jack,Doctor Finklestein,2
+Jack,Sora,8
+Jack,Goofy,7
+Jack,Donald,7
+Sora,Doctor Finklestein,2
+Doctor Finklestein,Goofy,2
+Doctor Finklestein,Donald,2
+El Alcalde,Sora,1
+El Alcalde,Goofy,1
+El Alcalde,Donald,1
+Zero,Jack,2
+Zero,Sally,1
+Zero,Sora,2
+Zero,Goofy,1
+Zero,Donald,1
+Jack,Sally,2
+Sally,Sora,1
+Sally,Goofy,1
+Sally,Donald,1
+Lock,Shock,5
+Lock,Barrel,5
+Shock,Barrel,5
+Oogie Boogie,Lock,1
+Oogie Boogie,Shock,1
+Oogie Boogie,Barrel,1
+Sora,Lock,1
+Sora,Shock,1
+Sora,Barrel,1
+Goofy,Lock,1
+Goofy,Shock,1
+Goofy,Barrel,1
+Donald,Lock,1
+Donald,Shock,1
+Donald,Barrel,1
+Doctor Finklestein,Lock,1
+Doctor Finklestein,Shock,1
+Doctor Finklestein,Barrel,1
+Zero,Lock,1
+Zero,Shock,1
+Zero,Barrel,1
+Oogie Boogie,Jack,2
+Oogie Boogie,Sora,2
+Oogie Boogie,Goofy,2
+Oogie Boogie,Donald,2
+Sora,Capitan Garfio,2
+Sora,Smee,2
+Riku,Smee,1
+Kairi,Capitan Garfio,1
+Kairi,Smee,1
+Capitan Garfio,Smee,2
+Sora,Peter Pan,9
+Sora,Campanilla,7
+Goofy,Peter Pan,7
+Goofy,Campanilla,6
+Donald,Peter Pan,7
+Donald,Campanilla,6
+Peter Pan,Campanilla,7
+Sora,Wendy,4
+Goofy,Wendy,3
+Goofy,Kairi,9
+Donald,Wendy,3
+Donald,Kairi,9
+Peter Pan,Wendy,4
+Peter Pan,Kairi,1
+Campanilla,Wendy,3
+Campanilla,Kairi,1
+Wendy,Kairi,1
+Sora,Capitan Grafio,1
+Sora,Tik Tak,2
+Goofy,Capitan Grafio,1
+Goofy,Smee,1
+Goofy,Tik Tak,1
+Donald,Capitan Grafio,1
+Donald,Smee,1
+Donald,Tik Tak,1
+Capitan Grafio,Smee,1
+Capitan Grafio,Campanilla,1
+Capitan Grafio,Tik Tak,1
+Capitan Grafio,Peter Pan,1
+Smee,Campanilla,1
+Smee,Tik Tak,1
+Smee,Peter Pan,1
+Campanilla,Tik Tak,1
+Tik Tak,Peter Pan,2
+Peter Pan,Capitan Garfio,1
+Capitan Garfio,Tik Tak,1
+Kairi,Abuela de Kairi,1
+Riku,Bestia,5
+Bestia,Sora,6
+Bestia,Goofy,5
+Bestia,Donald,5
+Jasmine,Cenicienta,2
+Jasmine,Kairi,2
+Jasmine,Alicia,2
+Jasmine,Blancanieves,2
+Jasmine,Bella,2
+Jasmine,La Bella Durmiente,2
+Cenicienta,Kairi,2
+Cenicienta,Alicia,2
+Cenicienta,Blancanieves,2
+Cenicienta,Bella,2
+Cenicienta,La Bella Durmiente,2
+Cenicienta,Malefica,1
+Kairi,Alicia,2
+Kairi,Blancanieves,2
+Kairi,Bella,2
+Kairi,La Bella Durmiente,2
+Alicia,Blancanieves,2
+Alicia,Bella,2
+Alicia,La Bella Durmiente,2
+Blancanieves,Bella,2
+Blancanieves,La Bella Durmiente,2
+Blancanieves,Malefica,1
+Bella,La Bella Durmiente,2
+Bella,Malefica,1
+La Bella Durmiente,Malefica,1
+Riku,Ansem (Xehanort),2
+Malefica,Bestia,1
+Sora,Xemnas,1
+Goofy,Xemnas,1
+Donald,Xemnas,1
+Sora,Blancanieves,1
+Sora,Bella,1
+Sora,Cenicienta,1
+Sora,La Bella Durmiente,1
+Goofy,Blancanieves,1
+Goofy,Bella,1
+Goofy,Cenicienta,1
+Goofy,La Bella Durmiente,1
+Donald,Blancanieves,1
+Donald,Bella,1
+Donald,Cenicienta,1
+Donald,La Bella Durmiente,1
+Goofy,Ansem (Xehanort),5
+Donald,Ansem (Xehanort),5
+Kairi,Ansem (Xehanort),1
+Kairi,Bestia,1
+Squall,Kairi,1
+Aerith,Kairi,1
+Yuffie,Kairi,1
+Bestia,Bella,1
+Sora,Mickey,1
+Goofy,Mickey,1
+Donald,Mickey,1
+Mickey,Riku,1
+Sora,Sephiroth,1
+Sephiroth,Cloud,1

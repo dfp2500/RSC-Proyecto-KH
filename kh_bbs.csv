@@ -1,0 +1,343 @@
+Personaje 1,Personaje 2,Interacciones
+Xehanort,Ventus,8
+Ventus,Aqua,24
+Ventus,Terra,15
+Terra,Aqua,17
+Mickey,Yen Sid,3
+Ventus,Eraqus,5
+Terra,Eraqus,6
+Aqua,Eraqus,4
+Xehanort,Eraqus,4
+Terra,Xehanort,17
+Aqua,Xehanort,6
+Xehanort,Vanitas,6
+Ventus,Vanitas,14
+Terra,Malefica,2
+Reina Grimhilde,Espejo Magico,2
+Terra,Reina Grimhilde,2
+Terra,Espejo Magico,2
+Terra,Blancanieves,1
+Ventus,Doc,3
+Ventus,Gruñon,3
+Ventus,Estornudon,3
+Ventus,Dormilon,3
+Ventus,Timido,3
+Ventus,Tontin,3
+Ventus,Feliz,3
+Ventus,Blancanieves,3
+Doc,Gruñon,7
+Doc,Estornudon,7
+Doc,Dormilon,7
+Doc,Timido,7
+Doc,Tontin,7
+Doc,Feliz,7
+Gruñon,Estornudon,7
+Gruñon,Dormilon,7
+Gruñon,Timido,7
+Gruñon,Tontin,7
+Gruñon,Feliz,7
+Estornudon,Dormilon,7
+Estornudon,Timido,7
+Estornudon,Tontin,7
+Estornudon,Feliz,7
+Dormilon,Timido,7
+Dormilon,Tontin,7
+Dormilon,Feliz,7
+Timido,Tontin,7
+Timido,Feliz,7
+Tontin,Feliz,7
+Blancanieves,Doc,5
+Blancanieves,Gruñon,5
+Blancanieves,Estornudon,5
+Blancanieves,Dormilon,5
+Blancanieves,Timido,5
+Blancanieves,Tontin,5
+Blancanieves,Feliz,5
+Reina Grimhilde,Ventus,1
+Terra,La Bella Durmiente,1
+Cenicienta,Jaq,4
+Cenicienta,Ventus,3
+Ventus,Jaq,5
+Ventus,Lucifer,1
+Jaq,Lucifer,1
+Terra,Cenicienta,5
+Terra,Hada Madrina,2
+Cenicienta,Hada Madrina,2
+Prince Charming,Cenicienta,3
+Prince Charming,Terra,2
+Prince Charming,El gran duque,4
+Prince Charming,Anastasia,2
+Prince Charming,Griselda,2
+Prince Charming,Lady Tremaine,2
+Cenicienta,El gran duque,5
+Cenicienta,Anastasia,3
+Cenicienta,Griselda,3
+Cenicienta,Lady Tremaine,3
+El gran duque,Anastasia,3
+El gran duque,Terra,3
+El gran duque,Griselda,3
+El gran duque,Lady Tremaine,3
+Terra,Anastasia,1
+Terra,Griselda,1
+Terra,Lady Tremaine,1
+Anastasia,Griselda,4
+Anastasia,Lady Tremaine,4
+Griselda,Lady Tremaine,4
+Cenicienta,Aqua,5
+Aqua,El gran duque,6
+Aqua,Prince Charming,2
+Aqua,Griselda,3
+Aqua,Anastasia,3
+Aqua,Lady Tremaine,3
+Aqua,Hada Madrina,2
+Aqua,Jaq,1
+Hada Madrina,El gran duque,1
+Hada Madrina,Prince Charming,1
+Xehanort,Braig,5
+Terra,Mickey,1
+Terra,Yen Sid,1
+Reina Grimhilde,Blancanieves,1
+Aqua,Doc,3
+Aqua,Dormilon,3
+Aqua,Gruñon,3
+Aqua,Estornudon,3
+Aqua,Timido,3
+Aqua,Tontin,3
+Aqua,Feliz,3
+Aqua,Blancanieves,3
+Aqua,Florian,3
+Aqua,Espejo Magico,1
+Florian,Blancanieves,2
+Florian,Doc,2
+Florian,Gruñon,2
+Florian,Estornudon,2
+Florian,Dormilon,2
+Florian,Timido,2
+Florian,Tontin,2
+Florian,Feliz,2
+Ventus,La Bella Durmiente,1
+Ventus,Flora,4
+Ventus,Fauna,4
+Ventus,Primavera,4
+La Bella Durmiente,Flora,1
+La Bella Durmiente,Fauna,1
+La Bella Durmiente,Primavera,1
+Flora,Fauna,6
+Flora,Primavera,6
+Fauna,Primavera,6
+Principe Felipe,La Bella Durmiente,2
+Ventus,Malefica,2
+Flora,Malefica,2
+Fauna,Malefica,2
+Primavera,Malefica,2
+Aqua,Malefica,3
+Principe Felipe,Aqua,2
+Principe Felipe,Flora,2
+Principe Felipe,Fauna,2
+Principe Felipe,Primavera,2
+Aqua,Flora,2
+Aqua,Fauna,2
+Aqua,Primavera,2
+Principe Felipe,Malefica,1
+Ventus,Mickey,7
+Vanitas,Mickey,5
+Dilan,Ventus,1
+Dilan,Aeleus,1
+Dilan,Even,1
+Ventus,Aeleus,1
+Ventus,Even,2
+Aeleus,Even,1
+Terra,Merlin,2
+Ventus,Tio Gilito,1
+Ventus,Merlin,1
+Aqua,Tio Gilito,1
+Aqua,Kairi,2
+Aqua,Mickey,8
+Kairi,Mickey,1
+Aqua,Abuela de Kairi,1
+Kairi,Abuela de Kairi,1
+Ventus,Ienzo,2
+Ienzo,Even,1
+Aqua,Merlin,1
+Terra,Braig,2
+Aqua,Vanitas,8
+Ventus,Lea,1
+Ventus,Isa,1
+Lea,Isa,1
+Terra,Minnie,3
+Terra,Pluto,1
+Terra,Chip,3
+Terra,Chop,3
+Minnie,Pluto,2
+Minnie,Chip,4
+Minnie,Chop,4
+Pluto,Chip,1
+Pluto,Chop,1
+Chip,Chop,4
+Terra,Pete,2
+Minnie,Pete,5
+Chip,Pete,3
+Chop,Pete,3
+Ventus,Filoctetes,5
+Ventus,Hercules,7
+Ventus,Zack,4
+Filoctetes,Hercules,8
+Filoctetes,Zack,5
+Hercules,Zack,5
+Terra,Hercules,2
+Terra,Filoctetes,1
+Terra,Hades,3
+Hades,Zack,4
+Terra,Zack,3
+Aqua,Filoctetes,2
+Aqua,Hercules,3
+Aqua,Zack,6
+Aqua,Hades,2
+Ventus,Pete,2
+Ventus,Minnie,2
+Ventus,Juanito,2
+Ventus,Jaimito,2
+Ventus,Jorgito,2
+Pete,Juanito,3
+Pete,Jaimito,3
+Pete,Jorgito,3
+Minnie,Juanito,3
+Minnie,Jaimito,3
+Minnie,Jorgito,3
+Juanito,Jaimito,3
+Juanito,Jorgito,3
+Jaimito,Jorgito,3
+Gantu,Gran Concejal,3
+Gantu,Terra,1
+Gran Concejal,Terra,1
+Terra,Jumba,2
+Terra,Stitch,1
+Jumba,Stitch,3
+Aqua,Stitch,4
+Aqua,Gantu,4
+Stitch,Gantu,7
+Aqua,Gran Concejal,3
+Aqua,Jumba,2
+Jumba,Gantu,2
+Gran Concejal,Stitch,1
+Gran Concejal,Jumba,1
+Ventus,Gantu,2
+Ventus,Stitch,4
+Aqua,Pete,2
+Aqua,Horace,3
+Pete,Horace,2
+Aqua,Minnie,2
+Aqua,Pluto,1
+Horace,Minnie,2
+Horace,Pluto,1
+Aqua,Chip,1
+Aqua,Chop,1
+Aqua,Juanito,1
+Aqua,Jaimito,1
+Aqua,Jorgito,1
+Aqua,Daisy,1
+Horace,Chip,1
+Horace,Chop,1
+Horace,Juanito,1
+Horace,Jaimito,1
+Horace,Jorgito,1
+Horace,Daisy,1
+Chip,Juanito,1
+Chip,Jaimito,1
+Chip,Jorgito,1
+Chip,Daisy,1
+Chop,Juanito,1
+Chop,Jaimito,1
+Chop,Jorgito,1
+Chop,Daisy,1
+Juanito,Daisy,1
+Jaimito,Daisy,1
+Jorgito,Daisy,1
+Minnie,Daisy,1
+Daisy,Pete,1
+Pete,Malefica,1
+Terra,Capitan Garfio,3
+Terra,Smee,2
+Capitan Garfio,Smee,5
+Campanilla,Ventus,5
+Campanilla,Zorrillo,7
+Campanilla,Osezno,7
+Ventus,Zorrillo,3
+Ventus,Osezno,3
+Zorrillo,Osezno,10
+Campanilla,Peter Pan,7
+Ventus,Peter Pan,4
+Zorrillo,Peter Pan,8
+Osezno,Peter Pan,9
+Terra,Peter Pan,1
+Terra,Zorrilo,1
+Terra,Osezno,2
+Peter Pan,Zorrilo,1
+Zorrilo,Osezno,1
+Ventus,Capitan Garfio,2
+Ventus,Smee,2
+Campanilla,Capitan Garfio,4
+Campanilla,Smee,4
+Terra,Zorrillo,1
+Terra,Campanilla,1
+Terra,Tic Tac,1
+Campanilla,Tic Tac,2
+Capitan Garfio,Tic Tac,3
+Peter Pan,Smee,3
+Ventus,Tic Tac,1
+Zorrillo,Aqua,6
+Zorrillo,Campanila,1
+Osezno,Aqua,6
+Osezno,Campanila,1
+Aqua,Peter Pan,6
+Aqua,Campanila,1
+Peter Pan,Campanila,1
+Aqua,Campanilla,4
+Aqua,Capitan Garfio,2
+Aqua,Smee,2
+Peter Pan,Capitan Garfio,2
+Capitan Garfio,Zorrillo,2
+Capitan Garfio,Osezno,2
+Zorrillo,Smee,2
+Osezno,Smee,2
+Aqua,Tic Tac,1
+Peter Pan,Tic Tac,1
+Zorrillo,Tic Tac,1
+Osezno,Tic Tac,1
+Smee,Tic Tac,1
+Terra,Sora,2
+Terra,Riku,3
+Sora,Riku,6
+Donald,Goofy,3
+Donald,Ventus,2
+Goofy,Ventus,2
+Ventus,Yen Sid,2
+Donald,Yen Sid,2
+Goofy,Yen Sid,2
+Aqua,Riku,1
+Aqua,Sora,1
+Mickey,Xehanort,1
+Aqua,Goofy,1
+Aqua,Donald,1
+Aqua,Yen Sid,2
+Mickey,Goofy,1
+Mickey,Donald,1
+Terra,Vanitas,4
+Aqua,Braig,2
+Ventus,Braig,2
+Braig,Vanitas,1
+Braig,Ansem,2
+Braig,Dilan,1
+Ansem,Dilan,1
+Ansem,Xehanort,2
+Dilan,Xehanort,1
+Sora,Ventus,1
+Ansem,Ienzo,2
+Ienzo,Xehanort,1
+Ienzo,Braig,1
+Roxas,Xion,1
+Roxas,Axel,1
+Xion,Axel,1
+Sora,Kairi,1
+Riku,Kairi,1
+Aqua,Ansem,1

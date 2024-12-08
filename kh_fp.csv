@@ -1,0 +1,19 @@
+Personaje 1,Personaje 2,Interacciones
+Yen Sid,Kairi,2
+Yen Sid,Riku,2
+Yen Sid,Mickey,2
+Kairi,Riku,2
+Kairi,Mickey,2
+Riku,Mickey,3
+Aqua,Terra,1
+Aqua,Xehanort,1
+Terra,Xehanort,1
+Aqua,Mickey,5
+Aqua,Riku,1
+Aqua,Ansem,1
+Yen Sid,Sora,1
+Yen Sid,Goofy,1
+Yen Sid,Donald,1
+Sora,Goofy,2
+Sora,Donald,2
+Goofy,Donald,2

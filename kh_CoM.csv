@@ -1,0 +1,69 @@
+Personaje 1,Personaje 2,Interacciones
+Sora,Goofy,37
+Sora,Donald,37
+Sora,Pluto,1
+Goofy,Donald,37
+Goofy,Pluto,1
+Donald,Pluto,1
+Sora,Marluxia,7
+Sora,Pepito,17
+Goofy,Pepito,16
+Donald,Pepito,16
+Goofy,Marluxia,5
+Donald,Marluxia,5
+Sora,Axel,5
+Goofy,Axel,4
+Donald,Axel,4
+Marluxia,Axel,5
+Pepito,Axel,1
+Riku,Ansem,6
+Riku,Mickey,9
+Zexion,Lexaeus,2
+Zexion,Vexen,3
+Lexaeus,Vexen,1
+Larxene,Axel,6
+Zexion,Lexaeus,1
+Vexen,Lexaeus,1
+Riku,Vexen,1
+Zexion,Lexaeus,2
+Riku,Riku Replica,3
+Riku Replica,Zexion,2
+Riku Replica,Vexen,2
+Riku Replica,Lexaeus,1
+Vexen,Lexaeus,1
+Sora,Larxene,4
+Goofy,Larxene,4
+Donald,Larxene,4
+Pepito,Larxene,2
+Larxene,Vexen,2
+Larxene,Riku Replica,4
+Larxene,Namine,6
+Axel,Vexen,3
+Axel,Riku Replica,2
+Axel,Namine,6
+Vexen,Namine,2
+Riku Replica,Namine,9
+Sora,Riku Replica,10
+Vexen,Marluxia,1
+Larxene,Marluxia,3
+Marluxia,Namine,6
+Sora,Vexen,3
+Goofy,Vexen,3
+Donald,Vexen,3
+Sora,Namine,13
+Namine,Donald,8
+Namine,Goofy,8
+Riku Replica,Donald,6
+Riku Replica,Goofy,6
+Pepito,Namine,3
+Pepito,Riku Replica,2
+Riku,Lexaeus,1
+Ansem (Xehanort),Lexaeus,1
+Riku,Ansem (Xehanort),4
+Mickey,Ansem (Xehanort),2
+Zexion,Axel,2
+Marluxia,Riku Replica,3
+Riku,Zexion,4
+Riku,Namine,1
+Riku,Sora,1
+Mickey,Ansem,2
